@@ -1,3 +1,5 @@
 # calculate-bmi
-Run: npm start
-Test: npm test
+### Run: npm start
+
+
+### Test: npm test
